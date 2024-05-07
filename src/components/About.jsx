@@ -37,7 +37,7 @@ const About = () => {
   return (
     <>
       <motion.div>
-        <p className={styles.sectionHeadText}>
+        <p className={styles.sectionSubText}>
           Introduction
         </p>
 
